@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.version     = ContentSkipper::VERSION
   s.date        = Time.now.strftime('%Y-%m-%d')
 
-  s.summary     = ""
-  s.description = ""
+  s.summary     = "Mark specific parts of your content to not be rendered"
+  s.description = "Mark specific parts of your content to not be rendered"
 
   s.author      = "Garret Alfert"
   s.email       = "garret.alfert@gmail.com"
