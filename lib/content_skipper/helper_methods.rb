@@ -20,7 +20,3 @@ module ContentSkipper
     end
   end
 end
-
-ActiveSupport.on_load(:action_view) do
-  include ContentSkipper::HelperMethods
-end
